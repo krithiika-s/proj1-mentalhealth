@@ -4,7 +4,7 @@ from sklearn.svm import SVC
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 import joblib
-from preprocess import clean_text
+from src.preprocess import clean_text
 
 df = pd.read_csv('data/data.csv')
 df['text'] = df['text'].apply(clean_text)
