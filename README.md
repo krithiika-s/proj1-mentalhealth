@@ -39,4 +39,5 @@ This project strictly follows the 10-stage Data Science Life Cycle:
 https://proj1-mentalhealth-4e45aes56up3zikxsmt7el.streamlit.app/
 
 ## 📸 Application Screenshots
-*Screenshots of the live app and EDA charts will be added here.*
+![WhatsApp Image 2026-04-05 at 12 16 04](https://github.com/user-attachments/assets/6a4743b0-0d55-47d3-ad59-c820cba90a62)
+
