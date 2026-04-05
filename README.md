@@ -36,7 +36,7 @@ This project strictly follows the 10-stage Data Science Life Cycle:
 4. Run the Streamlit app: `streamlit run app.py`
 
 ## 🌐 Live Streamlit Deployment
-*Link to live app will be added here upon deployment.*
+https://proj1-mentalhealth-4e45aes56up3zikxsmt7el.streamlit.app/
 
 ## 📸 Application Screenshots
 *Screenshots of the live app and EDA charts will be added here.*
