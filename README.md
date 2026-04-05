@@ -2,9 +2,9 @@
 **Project #26 | Predictive Analytics Group Project (2025-26)**
 
 ## 👥 Team Members
-* [Your Name]
-* [Teammate 2 Name]
-* [Teammate 3 Name]
+* KRITHIKA S
+* UMAPARVATHY C.S
+* HARIKRISHNAN S.M
 
 ## 📌 Problem Statement & Motivation
 Mental health conditions often go undiagnosed. Social media platforms like Reddit and Twitter provide a vast amount of user-generated text that can be analyzed for early detection of mental health risks. This project aims to classify social media posts into specific mental health categories (Depression, Anxiety, PTSD, Normal) to explore the potential for early intervention tools, while carefully considering data privacy and ethical boundaries.
