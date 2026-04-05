@@ -38,6 +38,18 @@ This project strictly follows the 10-stage Data Science Life Cycle:
 ## 🌐 Live Streamlit Deployment
 https://proj1-mentalhealth-4e45aes56up3zikxsmt7el.streamlit.app/
 
+
 ## 📸 Application Screenshots
+
+<img width="1525" height="787" alt="image" src="https://github.com/user-attachments/assets/19a3bf78-638a-4683-99c6-0ef0cbc880c9" />
+
 ![WhatsApp Image 2026-04-05 at 12 16 04](https://github.com/user-attachments/assets/6a4743b0-0d55-47d3-ad59-c820cba90a62)
+### 📊 Exploratory Data Analysis (EDA)
+We performed extensive EDA to understand the distribution of mental health labels and text characteristics.
+
+![Exploratory Data Analysis](eda_charts.jpg)
+
+**Key Findings:**
+* **Class Distribution:** The dataset contains a high volume of 'Normal' and 'Depression' cases, with 'Personality Disorder' being the minority class.
+* **Text Length:** Most social media posts are under 1,000 characters, showing that the model needs to be effective at analyzing short-form text.
 
